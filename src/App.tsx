@@ -33,10 +33,9 @@ function App() {
       <header className="hero-section">
         <div className="hero-copy">
           <span className="eyebrow">Merhaba, ben Kübra Özdemir</span>
-          <h1>Projelerimi Tanıttığım Siteme Hoş Geldiniz.</h1>
+          <h1>Kullanıcı Problemlerini Analiz Edip Dijital Çözümler Tasarlıyorum.</h1>
           <p>
-            Kullanıcı dostu, sade ve hızlı bir deneyim sunmak için modern web teknolojilerini kullanıyorum.
-            Burada kendimi kısa ve öz şekilde tanıtabilir, seçtiğim projeleri preview kartlarla sergileyebilirsin.
+            Gerçek hayattaki problemleri analiz ederek kullanıcı odaklı dijital ürünler tasarlıyor ve prototipliyorum.
           </p>
           <div className="hero-meta">
             <div>
@@ -60,8 +59,7 @@ function App() {
           <h2>Kısa tanıtım</h2>
         </div>
         <p>
-          Web geliştirme alanında temiz kod, sürdürülebilir tasarım ve hızlı kullanıcı deneyimini önemsiyorum.
-          Amacım her projede basitliği koruyup, aynı zamanda etkileyici bir görünüm sunmak.
+          Kodlama eğitmenliği deneyimim ve yazılım projelerim sayesinde kullanıcı ihtiyaçlarını analiz etmeyi, problemleri tanımlamayı ve bunlara dijital çözümler üretmeyi seviyorum. Hedefim Product Management alanında uzmanlaşmak ve kullanıcı odaklı ürünler geliştirmek.
         </p>
       </section>
 
