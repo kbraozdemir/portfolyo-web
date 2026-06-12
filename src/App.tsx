@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: 'LessonFlow',
-    problem: 'Eğitim platformlarında ders içerikleri düzensiz bir şekilde tutuluyordu. Bu da öğretmenlerin ve idari personelin ders programlarını takip edememesine neden oluyordu.',
+    problem: 'Eğitim kurumlarında ders içerikleri düzensiz bir şekilde tutuluyordu. Bu da öğretmenlerin ve idari personelin ders programlarını takip edememesine neden oluyordu.',
     solution: 'Ders içeriklerini düzenli bir şekilde sergileyen, öğretmenlerin ve idari personelin kolayca erişebileceği, değişiklik olduğunda öğretmenlere bildirim gönderen bir arayüz tasarladım.',
     implementation: 'React ile dinamik içerik yönetimi, TypeScript ile tip güvenliği ve CSS ile kullanıcı dostu bir tasarım oluşturdum.',
     tech: ['Responsive', 'TypeScript', 'CSS', 'React', 'UI/UX'],
@@ -23,7 +23,7 @@ const projects = [
     solution: 'DXF dosyalarını işleyerek metraj hesaplamalarını otomatikleştirdim. Malzeme ihtiyaçlarını hızlıca belirleyebilen, kullanıcı dostu bir arayüz tasarladım.',
     implementation: 'Python ile DXF dosyalarını işleyerek metraj hesaplama algoritması geliştirdim. React ve TypeScript kullanarak kullanıcı dostu bir arayüz oluşturdum.',
     tech: ['Python', 'React', 'Electron'],
-    link: '#'
+    link: 'https://github.com/kbraozdemir/kesifFlow'
   }
 ]
 
@@ -40,11 +40,11 @@ function App() {
           <div className="hero-meta">
             <div>
               <strong>Uzmanlık</strong>
-              <span>React · TypeScript · CSS</span>
+              <span>Problem Çözme · Ürün Geliştirme · Frontend Development</span>
             </div>
             <div>
               <strong>Odak</strong>
-              <span>Minimal UI · Performans · Responsive</span>
+              <span>Kullanıcı İhtiyaçları · MVP Tasarımı · Sürekli İyileştirme</span>
             </div>
           </div>
           <a href="#projects" className="button primary-button">
