@@ -20,10 +20,6 @@ Bu proje, React + TypeScript + Vite kullanılarak hazırlanmış minimal bir ki�
 
 1. Proje klasörüne gidin:
 
-```bash
-cd /home/kubra/Belgeler/Proje/PortfolyoWeb/portfolyo-web
-```
-
 2. Gerekli paketleri yükleyin (ilk kez çalıştırırken):
 
 ```bash
